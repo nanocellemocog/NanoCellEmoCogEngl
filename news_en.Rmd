@@ -1,0 +1,33 @@
+---
+title: "News"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: cerulean
+
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+***
+&NewLine;
+&NewLine;
+&NewLine;
+
+# 14.1.2022.
+Team members attended the first project management workshop. More information can be found at the [Science Fund of the Republic of Serbia website](http://fondzanauku.gov.rs/).
+
+# 10.1.2022.
+A *kick-off meeting* was held to mark the beginning of the project cycle. The meeting was held in hybrid form. 
+
+<a href="KickOff1.jpg"><img src="KickOff1.jpg" style="height:200px;"></a>
+&nbsp; &nbsp; &nbsp; 
+<a href="KickOff2.png"><img src="KickOff2.png" style="height:200px;"></a>

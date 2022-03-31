@@ -1,0 +1,47 @@
+---
+title: "Questions and answers"
+output: 
+  html_document:
+    #toc: true
+    #toc_depth: 2
+    #toc_float: true
+    theme: cerulean
+
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+***
+# What is the main goal of the project?
+
+Through integration of state-of-the-art research platforms - human stem cells and nanotechnology - the project aims to examine the potential of substances (in whose patent rights the Faculty of Pharmacy, University of Belgrade has a share), to provide beneficial effects on altered emotions and impaired cognition. While these effects are expected to occur through receptor(s) previously neglected during drug development, examining the effects on immune mechanisms in the brain will be of special interest.
+
+&NewLine;<br />
+
+# What is the main problem towards which the research is directed?
+
+Disorders of emotions and cognition represent a great and growing burden of the modern society. Drugs that could be used in such disorders are difficult to develop, as a consequence of the complexity of the mechanisms of regulation of higher neural functions, and partly the fact that the nervous tissue is protected by the blood-brain barrier. Therefore, research aimed at discovering and developing new therapeutic concepts in emotional and cognitive disorders must use different research techniques and integrate findings obtained for different cells and the organism as a whole.
+
+&NewLine;<br />
+
+# What theoretical concept / methodology will be used during the project implementation?
+
+It is known that many psychiatric and neurodegenerative disorders are based on neuroimmune mechanisms. Disorders in the regulation of the neuroimmune response can be caused by infectious agents, as well as physical and mental stress, which affect different types of cells in the nervous tissue. In the NanoCellEmoCog project, we will establish a system suitable for in vitro, ex vivo and in vivo testing of selected substances, in order to assess their biological and behavioral effects in these disorders. This idea will integrate the nanotechnological approach in the design of carriers for these molecules (to ensure their safe and secure delivery to desired cells and sites of action), with human pluripotent stem cells, appropriate animal models and machine learning methods. This methodological concept currently represents a unique approach in research.
+
+&NewLine;<br />
+
+# What are the project’s expected results?
+
+When it is necessary to treat certain disorders of the central nervous system (e.g. emotional and cognitive disorders), the delivery of drugs to the brain is still challenging due to the existence of a very powerful protective barrier that needs to be overcome. In this context, one of the expected results of the research of the NanoCellEmoCog project is reflected in the development of advanced nanocarriers for improved delivery of active molecules to the brain. Also, it is expected that the research of patent-protected molecules and drug-candidates will yield significant findings regarding their effects on common pathological mechanisms responsible for the development of anxiety, cognitive and mood disorders. This would open opportunities for the creation of new and expansion of already published patents of the Faculty of Pharmacy, University of Belgrade. Finally, it is expected that the integration of nanotechnology, research on selected cell lines and experimental animals will fill globally recognized methodological shortcomings, while creating an algorithm that could be used in preclinical drug development - regardless of the indication or the investigated drug-candidate’s site of action. 
+
+&NewLine;<br />
+
+# Is there a possibility of commercial cooperation within your project?
+
+Within the project itself, we will rely on the competencies and motivation of a multidisciplinary research team, with the support of foreign research institutions from the USA (University of Wisconsin), Germany (Eberhard Karls University Tübingen), China (Guangdong Medical University) and Greece (National Hellenic Research Foundation). The affirmative outcomes of the project will open numerous opportunities for commercial cooperation, namely with the pharmaceutical industry, which has the capacity to finance and implement regulatory-defined and highly demanding phases of preclinical and clinical development.
