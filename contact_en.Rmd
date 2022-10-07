@@ -1,0 +1,37 @@
+---
+title: "Contact"
+output: 
+  html_document:
+    #toc: true
+    #toc_depth: 2
+    #toc_float: true
+    theme: cerulean
+
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+***
+E-mail: 
+
+
+nanocellemocog@pharmacy.bg.ac.rs
+
+nanocellemocog@gmail.com
+
+&NewLine;<br />
+&NewLine;
+&NewLine;
+
+Address:
+
+Faculty of Pharmacy - University of Belgrade <br />
+Vojvode Stepe 450 <br />
+11221 Belgrade <br />
+Serbia <br />

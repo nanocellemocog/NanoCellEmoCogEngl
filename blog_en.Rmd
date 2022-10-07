@@ -1,0 +1,30 @@
+---
+title: "SciBlog"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: cerulean
+
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+***
+&NewLine;
+&NewLine;
+&NewLine;
+
+# SciBlog 1 - September 2022
+
+<a href="SciBlog 1_September 2022.pdf"><img src="SciBlog1.jpg" style="height:200px;"></a>
+
+
+
