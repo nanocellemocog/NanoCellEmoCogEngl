@@ -1,0 +1,71 @@
+---
+title: "Publications"
+output: 
+  html_document:
+    #toc: true
+    #toc_depth: 2
+    #toc_float: true
+    theme: cerulean
+
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+***
+# Original research papers
+
+-  Divović Matović B, Knutson D, Mitrović J, Stevanović V, Stanojević B, Savić S, Cook J, Savić M. *Behavioural interaction of pyrazoloquinolinone positive allosteric modulators at α6GABAA receptors and diazepam in rats: Anti-diazepam-induced ataxia action as a structure-dependent feature*. Basic & Clinical Pharmacology & Toxicology. 2022; 1-11. (Q2; M22 Pharmacology & Pharmacy, IF 3.688) https://doi.org/10.1111/bcpt.13801
+
+- Đoković JB, Demisli S, Savić SM, Marković BD, Cekić ND, Randjelovic DV, Mitrović JR, Lunter DJ, Papadimitriou V, Xenakis A, Savić SD. *The Impact of the Oil Phase Selection on Physicochemical Properties, Long-Term Stability, In Vitro Performance and Injectability of Curcumin-Loaded PEGylated Nanoemulsions*. Pharmaceutics. 2022 Aug 10;14(8):1666. (Q1; M21 Pharmaceutics, IF 6.525) https://doi.org/10.3390/pharmaceutics14081666 
+
+
+- Bernardo, A., Lee, P., Marcotte, M., Mian, M.Y., Rezvanian, S., Sharmin, D., Kovačević, A., Savić, M.M., Cook, J.M., Sibille, E. and Prevot, T.D., 2022. *Symptomatic and neurotrophic effects of GABAA receptor positive allosteric modulation in a mouse model of chronic stress*. Neuropsychopharmacology, pp.1-12. (Q1; M21a Pharmacology & Pharmacy, IF 8.294) https://doi.org/10.1038/s41386-022-01360-y 
+
+&nbsp; &nbsp; &nbsp; 
+
+# Conference poster presentations
+
+- [**Neuroimmune aspects of mood, anxiety and cognitive effects of leads/drug candidates acting at GABAA and/or sigma-2 receptors: In vitro/in vivo delineation by nano- and hiPSC-based platforms**](Neuroimmune aspects of mood, anxiety and cognitive effects of leads drug candidates acting at GABAA and or sigma2 receptors - Apstract.pdf) - [*presentation*](Neuroimmune aspects of mood, anxiety and cognitive effects of leads drug candidates acting at GABAA and or sigma2 receptors.pdf)
+
+   Autori: Savić, Snežana; Pantelić, Ivana; Jančić, Ivans; Savić, Miroslav
+   
+   8th Congress of Pharmacists of Serbia, 12.-15. October 2022, Belgrade, Serbia
+
+
+- [**Investigation of albumin adsorption on DK-I-56-1 nanocrystals by dynamic light scattering**](Investigation of albumin adsorption on DK-I-56-1 nanocrystals by dynamic light scattering.pdf)
+
+   Autori: Mitrović, Jelena; Knutson, Daniel; Nikolić, Ines; Cook, James; Savić, Miroslav; Savić, Snežana
+   
+   8th Congress of Pharmacists of Serbia, 12.-15. October 2022, Belgrade, Serbia
+
+
+- [**Analyzing the impact of the oil phase selection and curcumin presence on the nanoemulsion stabilizing layer using electron paramagnetic resonance spectroscopy**](Analyzing the impact of the oil phase selection and curcumin presence on the nanoemulsion stabilizing layer using electron paramagnetic resonance spectroscopy.pdf)
+
+   Autori: Đoković, Jelena; Demisli, Sotiria; Papadimitriou, Vassiliki; Xenakis, Aristotelis; Savić, Snežana
+   
+   8th Congress of Pharmacists of Serbia, 12.-15. October 2022, Belgrade, Serbia
+
+- [**A proposal of innovative injectability assessment method for intravenous formulations - case study on PEGylated nanoemulsions**](A proposal of innovative injectability assessment method for intravenous formulations - case study on PEGylated nanoemulsions.pdf)
+
+   Authors: Đoković, Jelena; Savić, Sanela; Cekić, Nebojša; Savić, Snežana
+   
+   9th BBBB International conference on pharmaceutical sciences, 15 - 17 September 2022, Ljubljana, Slovenia
+
+- [**Freeze-dried nanocrystal dispersion of novel deuterated pyrazoloquinolinone ligand (DK-I-56-1); process parameters and cryoprotectant selection through stability study**](Freeze-dried nanocrystal dispersion of novel deuterated pyrazoloquinolinone ligand (DK-I-56-1); process parameters and cryoprotectant selection through stability study.pdf)
+
+   Authors: Mitrović, Jelena; Bjelošević, Maja; Knutson, Daniel E.; Kremenović, Aleksandar; Lunter, Dominique; Ahlin Grabnar, Pegi; Cook, James M.; Savić, Miroslav M.; Savić, Snežana D.
+   
+   9th BBBB International conference on pharmaceutical sciences, 15 - 17 September 2022, Ljubljana, Slovenia
+
+
+- [**Physicochemical/structural investigation of lipid nanoparticles with high lecithin amounts loaded with patent protected pyrazoloquinolinone ligand DK-I-60-3**](Physicochemical structural investigation of lipid nanoparticles with high lecithin amounts loaded with patent protected pyrazoloquinolinone ligand DK-I-60-3.pdf)
+
+   Authors: Mitrović, Jelena; Petković, Miloš; Ranđelović, Danijela; Đoković, Jelena; Knutson, Daniel; Cook, James; Savić, Vladimir; Savić, Miroslav; Savić, Snežana 
+
+   13th World meeting on pharmaceutics, biopharmaceutics and pharmaceutical technology, 28-31 March 2022, Rotterdam, Netherlands
