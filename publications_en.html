@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -295,6 +292,7 @@ h1 { /* Header 1 */
 <div id="original-research-papers" class="section level1">
 <h1>Original research papers</h1>
 <ul>
+<li><p>Ilić T, Đoković JB, Nikolić I, Mitrović JR, Pantelić I, Savić SD, Savić MM. <em>Parenteral Lipid-Based Nanoparticles for CNS Disorders: Integrating Various Facets of Preclinical Evaluation towards More Effective Clinical Translation</em>. Pharmaceutics. 2023; 15(2):443.(Q1; M21 Pharmaceutics, IF 6.525) <a href="https://doi.org/10.3390/pharmaceutics15020443" class="uri">https://doi.org/10.3390/pharmaceutics15020443</a></p></li>
 <li><p>Divović Matović B, Knutson D, Mitrović J, Stevanović V, Stanojević B, Savić S, Cook J, Savić M. <em>Behavioural interaction of pyrazoloquinolinone positive allosteric modulators at α6GABAA receptors and diazepam in rats: Anti-diazepam-induced ataxia action as a structure-dependent feature</em>. Basic &amp; Clinical Pharmacology &amp; Toxicology. 2022; 1-11. (Q2; M22 Pharmacology &amp; Pharmacy, IF 3.688) <a href="https://doi.org/10.1111/bcpt.13801" class="uri">https://doi.org/10.1111/bcpt.13801</a></p></li>
 <li><p>Đoković JB, Demisli S, Savić SM, Marković BD, Cekić ND, Randjelovic DV, Mitrović JR, Lunter DJ, Papadimitriou V, Xenakis A, Savić SD. <em>The Impact of the Oil Phase Selection on Physicochemical Properties, Long-Term Stability, In Vitro Performance and Injectability of Curcumin-Loaded PEGylated Nanoemulsions</em>. Pharmaceutics. 2022 Aug 10;14(8):1666. (Q1; M21 Pharmaceutics, IF 6.525) <a href="https://doi.org/10.3390/pharmaceutics14081666" class="uri">https://doi.org/10.3390/pharmaceutics14081666</a></p></li>
 <li><p>Bernardo, A., Lee, P., Marcotte, M., Mian, M.Y., Rezvanian, S., Sharmin, D., Kovačević, A., Savić, M.M., Cook, J.M., Sibille, E. and Prevot, T.D., 2022. <em>Symptomatic and neurotrophic effects of GABAA receptor positive allosteric modulation in a mouse model of chronic stress</em>. Neuropsychopharmacology, pp.1-12. (Q1; M21a Pharmacology &amp; Pharmacy, IF 8.294) <a href="https://doi.org/10.1038/s41386-022-01360-y" class="uri">https://doi.org/10.1038/s41386-022-01360-y</a></p></li>

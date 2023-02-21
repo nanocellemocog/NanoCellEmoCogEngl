@@ -20,6 +20,8 @@ h1 { /* Header 1 */
 ***
 # Original research papers
 
+- Ilić T, Đoković JB, Nikolić I, Mitrović JR, Pantelić I, Savić SD, Savić MM. *Parenteral Lipid-Based Nanoparticles for CNS Disorders: Integrating Various Facets of Preclinical Evaluation towards More Effective Clinical Translation*. Pharmaceutics. 2023; 15(2):443.(Q1; M21 Pharmaceutics, IF 6.525) https://doi.org/10.3390/pharmaceutics15020443 
+
 -  Divović Matović B, Knutson D, Mitrović J, Stevanović V, Stanojević B, Savić S, Cook J, Savić M. *Behavioural interaction of pyrazoloquinolinone positive allosteric modulators at α6GABAA receptors and diazepam in rats: Anti-diazepam-induced ataxia action as a structure-dependent feature*. Basic & Clinical Pharmacology & Toxicology. 2022; 1-11. (Q2; M22 Pharmacology & Pharmacy, IF 3.688) https://doi.org/10.1111/bcpt.13801
 
 - Đoković JB, Demisli S, Savić SM, Marković BD, Cekić ND, Randjelovic DV, Mitrović JR, Lunter DJ, Papadimitriou V, Xenakis A, Savić SD. *The Impact of the Oil Phase Selection on Physicochemical Properties, Long-Term Stability, In Vitro Performance and Injectability of Curcumin-Loaded PEGylated Nanoemulsions*. Pharmaceutics. 2022 Aug 10;14(8):1666. (Q1; M21 Pharmaceutics, IF 6.525) https://doi.org/10.3390/pharmaceutics14081666 
