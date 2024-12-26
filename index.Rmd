@@ -1,0 +1,56 @@
+---
+title: "Welcome to the NanoCellEmoCog Project"
+output: 
+  html_document:
+    #toc: true
+    #toc_depth: 2
+    #toc_float: true
+    theme: cerulean
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+
+&NewLine;
+&NewLine;
+
+***
+<p align="center">
+  ![](LogoNanoCellEmoCog.png){width=40%}
+</p>
+
+&NewLine;
+
+***
+**Project full title:** Neuroimmune aspects of mood, anxiety and
+cognitive effects of leads/drug candidates acting at
+GABAA and/or $\sigma2$ receptors: In vitro/in vivo
+delineation by nano- and hiPSC-based platforms
+
+&NewLine;
+
+**Acronym:** NanoCellEmoCog
+
+The main objective of the **NanoCellEmoCog** project is to test the hypothesis that nanocarrier-based pharmacokinetically optimized modulation of GABAA and $\sigma2$ receptors, on their own or in combination, results in substantial improvements in neuroimmune and/or behavioral outputs assessed in *in vitro* and *in vivo* systems made to mimic a compromised neuroimmune status, which has been recognized as a commonality underlying and unifying various CNS disorders characterized by mood, anxiety, and cognitive disturbances.
+
+
+&NewLine;
+&NewLine;
+&NewLine;
+
+**Funding:** The project is funded by the Science Fund of the Republic of Serbia, through the call IDEAS. The project is realised at the University of Belgrade-Faculty of Pharmacy. 
+
+
+
+***
+<p align="center">
+<a href="http://www.pharmacy.bg.ac.rs/"><img src="FF.jpg" style="height:60px;"></a> &nbsp; &nbsp; &nbsp; 
+<a href="http://fondzanauku.gov.rs/"><img src="Fond.jpg" style="height:60px;"></a> &nbsp; &nbsp; &nbsp; 
+<a href="https://mpn.gov.rs/"><img src="LogoMPNTR.png" style="height:60px;"></a> 
+</p>

@@ -1,0 +1,26 @@
+name: "my-website-name"
+output_dir: "."
+navbar:
+  title: "NanoCellEmoCog"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Team"
+      href: team_en.html
+    - text: "Publications"
+      href: publications_en.html
+    - text: "Q & A"
+      href: questionsandanswers_en.html
+    - text: "Toolbox"
+      href: toolbox_en.html
+    - text: "Contact"
+      href: contact_en.html
+  right:
+    - text: "Srpski"
+      href: https://nanocellemocog.github.io/NanoCellEmoCog/index.html	
+output:
+  html_document:
+    theme: cerulean
+    include:
+      after_body: footer_en.html
+
